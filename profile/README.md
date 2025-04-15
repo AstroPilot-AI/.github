@@ -3,7 +3,7 @@
 
 # AstroPilot
 
-AstroPilot is a multiagent system designed to automatize scientific research in astrophysics and cosmology
+AstroPilot is a multi-agent system designed to automatize scientific research in astrophysics and cosmology.
 
 ## Installation
 
