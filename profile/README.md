@@ -1,4 +1,2 @@
-# AstroPilot
-
-AstroPilot is a multi-agent system designed to automatize scientific research workflows.
+We design multi-agent system designed to automatize scientific research workflows.
 
